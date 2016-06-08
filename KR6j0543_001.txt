@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:29.277419
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:25
 #+TITLE: 難儞計濕嚩囉天說支輪經
 #+PROPERTY: CBETA_ID T21n1312
 #+PROPERTY: ID KR6j0543
